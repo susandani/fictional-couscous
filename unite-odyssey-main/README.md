@@ -5,7 +5,7 @@
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/susandani/.git
+git clone https://github.com/susandani/fictional-couscous.git
 ```
 
 2. Navigate into the project directory:
