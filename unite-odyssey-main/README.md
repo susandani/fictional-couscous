@@ -1,12 +1,11 @@
 # UNITE ODYSSEY
 
 ## Join
-https://odyssey.unite.io/dashboard?referralCode=3cbd92f6b9
-
+[https://odyssey.unite.io/dashboard?referralCode=aa453a24]
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/PrastianHD/unite-odyssey.git
+git clone https://github.com/susandani/fictional-couscous.git
 ```
 
 2. Navigate into the project directory:
