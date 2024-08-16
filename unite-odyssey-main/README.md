@@ -5,12 +5,12 @@
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/susandani/fictional-couscous.git
+git clone https://github.com/susandani/.git
 ```
 
 2. Navigate into the project directory:
 ```
-cd unite-odyssey
+cd fictional-couscous
 ```
 
 3. Install dependencies:
