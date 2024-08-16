@@ -1,12 +1,12 @@
-# UNITE ODYSSEY
+## fictional-couscous UNITE ODYSSEY
 
 ## Join
-https://odyssey.unite.io/dashboard?referralCode=3cbd92f6b9
+https://odyssey.unite.io/dashboard?referralCode=aa453a24
 
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/PrastianHD/unite-odyssey.git
+https://github.com/susandani/fictional-couscous.git
 ```
 
 2. Navigate into the project directory:
@@ -32,10 +32,13 @@ npm start
 ```
 
 ## Donations
-If you would like to support the development of this project, you can make a donation using the following addresses:
+ If you are inspired by our project and wish to contribute, your generosity can truly make a difference. Please consider making a donation to support our cause. Your contribution will directly impact the lives of those in need and help us continue our important work. Together, we can create a brighter future for all. Thank you for your support.
 
-- Solana: `68Xd3S6jADS52c4RMMzUHpoeoewK9kLkG6v1Qh2CNTt4` 
-- ALL EVM: `0x000000DE3b4CD31742711440C1283b162035E00E`
+Bitcoin Address: [bc1qu07ccrtahmkaagxpwlsdl6kfjnpv7clvc0g89d]
+
+Ethereum Address: [0xb6b358D92cD823d0d7F6A687935F10B0417994d1]
+
+Thank you for your kindness and support.
 
 ## Contributing
 Feel free to open `issues` or submit `pull requests` if you have improvements or bug fixes.
